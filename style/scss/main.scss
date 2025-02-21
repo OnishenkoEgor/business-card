@@ -1,0 +1,11 @@
+.page {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: #151515;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url("/public/background.gif");
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
