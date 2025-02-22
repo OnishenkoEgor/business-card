@@ -25,7 +25,8 @@ useHead({
 </script>
 
 <template>
-  <div class="page">
-    <glitch/>
+  <div class="page">  
+      <ProjectsList/>
+      <Socials/>
   </div>
 </template>
